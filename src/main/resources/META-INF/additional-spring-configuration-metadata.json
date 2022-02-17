@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "batch.initialize-schema",
+      "type": "java.lang.String",
+      "description": "Description for batch.initialize-schema."
+  }
+] }
